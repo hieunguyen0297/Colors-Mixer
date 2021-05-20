@@ -1,7 +1,4 @@
 /*
-    N220
-    Hieu Nguyen
-    Week 13 assignment
     Mix colors
 
 */
